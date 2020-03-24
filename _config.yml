@@ -1,11 +1,9 @@
-title: Your awesome title
+title: PrameTan's Maths Blog
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: PrameTan
+  email: prame_tansuntorn@hotmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Recollections of files and ideas
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,11 +14,11 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    # twitter: jekyllrb
+    github:  PrameTan
     # devto: jekyll
     # dribbble: jekyll
-    # facebook: jekyll
+     facebook: mathproblemaday
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
