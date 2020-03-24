@@ -15,10 +15,10 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
-    github:  PrameTan
+    github: PrameTan
     # devto: jekyll
     # dribbble: jekyll
-     facebook: mathproblemaday
+    facebook: mathproblemaday
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
