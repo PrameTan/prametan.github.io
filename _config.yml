@@ -15,6 +15,12 @@ exclude:
 - CODE_OF_CONDUCT.md
 - CONTRIBUTING.md
 - screenshot.png
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+- alembic-jekyll-theme.gemspec
+- .jekyll-cache
 
 # 2. Installed Gems
 plugins:
@@ -33,7 +39,7 @@ plugins:
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
- twitter:
+twitter:
   username: KDissalwerg # jekyll-seo-tag > Owners twitter username
 author: PrameTan # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
