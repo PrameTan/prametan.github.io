@@ -1,7 +1,26 @@
-**Please read the [contributing guidelines](https://github.com/daviddarnes/alembic/blob/master/.github/CONTRIBUTING.md) and [code of conduct](https://github.com/daviddarnes/alembic/blob/master/.github/CODE_OF_CONDUCT.md) before creating a pull request.**
+<!--
+  Thanks for creating a Pull Request! Before you submit, please make sure
+  you've done the following:
 
-Please prefix your pull request with one of the following: **[Feature]** **[Fix]** **[Enhancement]**.
+  - Read the contributing document at https://github.com/mmistakes/minimal-mistakes#contributing
+-->
 
-If the pull request is a **fix** please **link to the related issue**, all bugs must have an [an issue created](https://github.com/daviddarnes/alembic/issues/new) before a fix is provided.
+<!--
+  Choose one of the following by uncommenting it:
+-->
 
-If the pull request is a **feature** please **provide a summary of how it works**, as well as documentation in the [readme](https://github.com/daviddarnes/alembic/blob/master/README.md).
+<!-- This is a bug fix. -->
+<!-- This is an enhancement or feature. -->
+<!-- This is a documentation change. -->
+
+## Summary
+
+<!--
+  Provide a description of what your pull request changes.
+-->
+
+## Context
+
+<!--
+  Is this related to any GitHub issue(s)?
+-->
