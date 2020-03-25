@@ -1,16 +1,18 @@
 ---
-title: About Alembic
+title: PrameTan's Maths Blog
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## PrameTan's Maths Blog
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 layout: page
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
+## About me
+This page serves as a homepage and online resources for documents provided by PrameTan. I have been doing mathematics for more than 10 years now, and I want to share it to everyone.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
+หน้าเว็ปนี้เป็นของผมเอง
+
+{% include button.html text="Fork it" icon="github" link="https://github.com/prametan" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://prametan.github.io&text=Join%20us%20in%20this%20maths%20page&via=KDissalwerg" color="#0d94e7" %} 
 
 ## Features
 
@@ -42,53 +44,6 @@ Here are a few examples of Alembic out in the wild being used in a variety of wa
 - [hrkeni.me](https://hrkeni.me/)
 - [ccs17.bsc.es](https://ccs17.bsc.es/)
 - [karateca.org](https://www.karateca.org/)
-
-## Installation
-
-### Quick setup
-
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
-
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
-
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
-
-### As a Jekyll theme
-
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a GitHub Pages remote theme
-
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a Boilerplate / Fork
-
-_(deprecated, not recommended)_
-
-1. [Fork the repo](https://github.com/daviddarnes/alembic#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `.github`, `LICENSE`, `screenshot.png`, `CNAME` and `alembic-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
 
 ## Customising
 
