@@ -1,13 +1,25 @@
 ---
 title: Repositories
-header:
-  overlay_filter: rgba(255, 0, 0, 0.5)
-  feature_text: |
-    List of repositories created by me
-  feature_image: "/assets/covers/niels-abel-cover-2.png"
+feature_text: |
+  List of repositories created by me
+feature_image: "/assets/covers/niels-abel-cover-2.png"
+overlay_filter: rgba(255, 0, 0, 0.5)
 excerpt: "List of repositories created by me"
 aside: true
 ---
+
+{% header {
+    height: 600px;
+    width: 100vw;
+    background: black;
+    overflow: hidden;
+}
+
+img {
+   object-fit: cover;
+   opacity: 0.4;
+} %}
+
 
 # Heading 1
 
