@@ -2,7 +2,8 @@
 title: Repositories
 feature_text: |
   List of repositories created by me
-feature_image: "/assets/covers/niels-abel-cover.png"
+feature_image: "/assets/covers/niels-abel-cover-2.png"
+overlay_filter: rgba(255, 0, 0, 0.5)
 excerpt: "List of repositories created by me"
 aside: true
 ---
