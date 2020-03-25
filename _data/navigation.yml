@@ -1,12 +1,12 @@
 # main links
 main:
   # - title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "About"
-     url: https://prametan.github.io/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-   - title: "Collections"
-     url: /collection/
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: /about/
+  - title: "Repos"
+    url: /repos/
+  - title: "Resources"
+    url: /resouces/
   # - title: "Sitemap"
   #   url: /sitemap/
