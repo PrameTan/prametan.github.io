@@ -51,8 +51,9 @@ minima:
 # - about.md
 
 # Build settings
-theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic
 
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-remote-theme
