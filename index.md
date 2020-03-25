@@ -7,10 +7,8 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 layout: page
 ---
 
-## About me
+### About me
 This page serves as a homepage and online resources for documents provided by PrameTan. I have been doing mathematics for more than 10 years now, and I want to share it to everyone.
-
-หน้าเว็ปนี้เป็นของผมเอง
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/prametan" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://prametan.github.io&text=Join%20us%20in%20this%20maths%20page&via=KDissalwerg" color="#0d94e7" %} 
 

@@ -2,7 +2,7 @@
 title: Repositories
 feature_text: |
   List of repositories created by me
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/assets/covers/niels-abel-cover.png"
 excerpt: "List of repositories created by me"
 aside: true
 ---

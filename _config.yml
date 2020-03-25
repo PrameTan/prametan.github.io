@@ -120,12 +120,12 @@ navigation_header:
 
 navigation_footer:
 - title: By PrameTan
-  url: https://darn.es
+  url: https://www.facebook.com/mathproblemaday/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
 # Twitter: https://twitter.com/DavidDarnes
 #  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  facebook: "https://www.facebook.com/mathproblemaday/"
+  facebook: https://www.facebook.com/mathproblemaday/
   GitHub: https://github.com/prametan
   link: https://darn.es
   RSS: /feed.xml
