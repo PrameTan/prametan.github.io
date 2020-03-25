@@ -18,12 +18,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-GB"
 title                    : "PrameTan's Maths Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : Collections and resorces from my stash # site tagline that appears below site title in masthead
 name                     : "PrameTan"
 description              : "Resources and Collections of my ideas"
 url                      : "https://prametan.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : PrameTan/prametan.github.io# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "PrameTan/prametan.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :  
 facebook:
   username               :
   app_id                 :
@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "PrameTan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Eislingen"
+  bio              : "Mathematician in training. Does not bite."
+  location         : "Eislingen, Baden-Württemberg"
   email            : "prame_tansuntorn@hotmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:prame_tansuntorn@hotmail.com
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#     url: mailto:prame_tansuntorn@hotmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -123,13 +123,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/KDissalwerg"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/mathproblemaday"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/PrameTan"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
