@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "PrameTan"
-  avatar           : "/assets/images/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Mathematician in training. Does not bite."
   location         : "Eislingen, Baden-Württemberg"
   email            : "prame_tansuntorn@hotmail.com"
