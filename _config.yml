@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "PrameTan's Maths Page"
+title                    : "PrameTan's Tiny Page"
 title_separator          : "-"
 subtitle                 : "Collections and resorces from my stash" # site tagline that appears below site title in masthead
 name                     : "PrameTan"
-description              : Resources and Collections in Mathematics"
+description              : "Resources and Collections in Mathematics"
 url                      : "https://prametan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "PrameTan/prametan.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "PrameTan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Mathematician in training. Does not bite."
   location         : "Eislingen, Baden-Württemberg"
   email            : "prame_tansuntorn@hotmail.com"
@@ -279,3 +279,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
