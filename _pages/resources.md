@@ -14,6 +14,8 @@ The following lists are my resources and/or documents that I decided should be p
 
 [latex-math](/latex-math/ "latex-math") - Mathematical notes on various topics.
 
+[thai-preface](/thai-preface/ "thai-preface") - Preface for thai typesetting in latex.  
+**Requires TH Sarabun New font for optimal result**
 
 thai-category - Project to introduce category theory to Thai audience.
 
