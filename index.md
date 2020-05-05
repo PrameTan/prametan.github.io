@@ -12,7 +12,7 @@ feature_row:
     alt: "Mathematical blog"
     title: "Mathematical blog"
     excerpt: "Everything from Mathematics"
-    url: "/maths/"
+    url: "/categories/"
     btn_class: "btn--primary"
     btn_label: "Click here" 
   - image_path: /assets/images/cauchy-cover.png

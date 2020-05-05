@@ -23,12 +23,14 @@ thai-category - Project to introduce category theory to Thai audience.
 tbd
 
 ## Lecture notes
-I have several lecture notes typed in Thai. Those are:
-
+I have several lecture notes typed in Thai. Those are:  
+### Calculus I 
+[แบบฝึกหัด](/assets/files/calculus practice.pdf)
 ### Principles of Maths
 [ความสัมพันธ์](/assets/files/relations.pdf)  
 [แบบฝึกหัด](/assets/files/principle of maths.pdf)  
 ### Calculus II
+[แบบฝึกหัดการหาปริพันธ์](/assets/files/Calculus II practice.pdf)
 [ลำดับและอนุกรม](/assets/files/sequence_and_series.pdf) - ตลอดจนอนุกรมกำลังและอนุกรมเทย์เลอร์
 
 # Philosophy
