@@ -12,6 +12,8 @@ The following lists are my resources and/or documents that I decided should be p
 
 ## Repositories
 
+[Reading List for Mathematics](https://docs.google.com/document/d/1C6XUwaiimaWRSIdmlumEDaPKjFMdXtDeZEQEUXsLvy0/edit?usp=sharing) - I tried to organise standard textbooks used in various course together for easy referencing.
+
 [latex-math](/latex-math/ "latex-math") - Mathematical notes on various topics.
 
 [thai-preface](/thai-preface/ "thai-preface") - Preface for thai typesetting in latex.  
