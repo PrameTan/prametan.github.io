@@ -2,11 +2,11 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#FFCD82"
+  overlay_color: "#30E3CA"
   overlay_image: /assets/images/niels-abel-cover-2.png
 excerpt: >
-  Collections, works, and documents<br />
-  <a href="https://github.com/PrameTan/">Visit GitHub repo now</a> or <a href="https://prametan.github.io/resources">Resources</a>
+  Collections, works, and typed documents<br />
+  <a href="https://github.com/PrameTan/">Visit GitHub repo now</a> or <a href="https://prametan.github.io/resources">Writings</a>
 feature_row:
   - image_path: /assets/images/niels-abel-cover-fix.png
     alt: "Mathematical blog"
@@ -16,8 +16,8 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Click here" 
   - image_path: /assets/images/cauchy-cover.png
-    alt: "Resources"
-    title: "Resources"
+    alt: "Writings"
+    title: "Writings"
     excerpt: "Online resources for both mathematics and philosophy"
     url: "/resources/"
     btn_class: "btn--primary"

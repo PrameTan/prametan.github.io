@@ -15,3 +15,6 @@ Je ne l'ai pas lu mais ça a l'air genial. Certainement vais jeter un coup d'œi
 
 Lien: [http://math.univ-lyon1.fr/homes-www/H2G2/](http://math.univ-lyon1.fr/homes-www/H2G2/)
 
+$$
+e^{i\pi} + 1 = 0
+$$
