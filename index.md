@@ -19,7 +19,7 @@ feature_row:
     alt: "Writings"
     title: "Writings"
     excerpt: "Online resources for both mathematics and philosophy"
-    url: "/resources/"
+    url: "/writings/"
     btn_class: "btn--primary"
     btn_label: "Click here" 
 ---
