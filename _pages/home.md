@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /
+hidden: true
 header:
   overlay_color: "#30E3CA"
   overlay_image: /assets/images/niels-abel-cover-2.png
@@ -26,4 +27,4 @@ feature_row:
 
 {% include feature_row %}
 
-<small>The pictures used are from [Niels Hendrik Abel's](https://www.abelprize.no/nedlastning/verker/abel_handskrift3_opt.pdf) and [Cauchy's](http://dla.library.upenn.edu/dla/medren/pageturn.html?id=MEDREN_9958856333503681&rotation=0&size=0&currentpage=2) manuscript. The one in the foothead is from Abel's proofs of the result that division of lemniscate by compass and straightedge is the as circle division as previously shown by Gauss.</small>
+<small>The pictures used are from [Niels Hendrik Abel's](https://www.abelprize.no/nedlastning/verker/abel_handskrift3_opt.pdf) and [Cauchy's](http://dla.library.upenn.edu/dla/medren/pageturn.html?id=MEDREN_9958856333503681&rotation=0&size=0&currentpage=2) manuscripts. The one in the foothead is from Abel's proof of the result that division of lemniscate by compass and straightedge is the same as circle division previously investigated by Gauss.</small>
