@@ -19,3 +19,7 @@ Some enjoyable webpage to read:
 * [Dominic Joyce](https://people.maths.ox.ac.uk/joyce/)
 * [Tom Körner](https://www.dpmms.cam.ac.uk/~twk10/)
 * [Thomas Forster](https://www.dpmms.cam.ac.uk/~tef10/)
+
+Some useful lecture notes:
+
+* Eric Wei's [Homological algebra notes](https://github.com/EricWay1024/Homological-Algebra-Notes) based on the course at Oxford. While you are at it, check out his dissertation on [synthetic homotopy theory](https://arxiv.org/abs/2409.15693).
