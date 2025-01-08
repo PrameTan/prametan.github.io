@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "About me?"
-last_modified_at: 2025-01-07
+last_modified_at: 2025-01-08
 toc: true
 ---
 
@@ -20,19 +20,21 @@ Looking back now I realised I have been doing mathematics for more than 10 years
 My interests in mathematics are in, but not limited to, the following areas:
 
 * foundations & logic, particularly Gödel's incompleteness theorems,
+* algebraic geometry, particularly complex geometry,
 * algebraic topology,
 * Lie algebras,
-* algebraic geometry,
-* Riemannian geometry and complex geometry,
+* Riemannian geometry,
 * proof assistant and automated proof verification with LEAN.
 
 Here is my <a href="https://prametan.github.io/assets/pdf/Tansoontorn, Phemmatad - CV.pdf" target="_blank">CV</a>.
 
+I participated in the [International Philosophy Olympiad](https://en.wikipedia.org/wiki/International_Philosophy_Olympiad) back in 2019 hosted by Italy, which I have a very fond memory of and made good friends there.
+
 ## What I am currently up to
 
-Mostly reading Lie algebras (Carter), algebraic geometry (G&W), and complex geometry (Lee).
+Mostly reading Lie algebras (Carter), algebraic geometry (Görtz & Wedhorn, Liu), and complex geometry (Lee).
 
-I am writing a note in Thai on a quick introduction to the proofs of Gödel's incompleteness theorems. It's still incomplete (heh).
+I am writing a note in Thai on a quick introduction to the proofs of Gödel's incompleteness theorems. It's still incomplete.
 
 ## Past Projects
 
