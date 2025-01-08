@@ -6,8 +6,8 @@ header:
   overlay_color: "#30E3CA"
   overlay_image: /assets/images/niels-abel-cover-2.png
 excerpt: >
-  Collections, works, and typed documents<br />
-  <a href="https://github.com/PrameTan/">Visit my GitHub repo</a> or <a href="https://prametan.github.io/resources">Writings</a>
+  Collections of works, and typed documents.<br />
+  Visit my <a href="https://github.com/PrameTan/">GitHub repo</a> or check out my <a href="https://prametan.github.io/resources">writings</a>.
 feature_row:
   - image_path: /assets/images/niels-abel-cover-fix.png
     alt: "Mathematical blog"
