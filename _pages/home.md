@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/niels-abel-cover-2.png
 excerpt: >
   Collections, works, and typed documents<br />
-  <a href="https://github.com/PrameTan/">Visit GitHub repo now</a> or <a href="https://prametan.github.io/resources">Writings</a>
+  <a href="https://github.com/PrameTan/">Visit my GitHub repo</a> or <a href="https://prametan.github.io/resources">Writings</a>
 feature_row:
   - image_path: /assets/images/niels-abel-cover-fix.png
     alt: "Mathematical blog"

@@ -1,11 +1,10 @@
 ---
 title:  "Recommended books in French: H2G2"
-header:
-  teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
 categories: 
-  - Blog
+  - Book recommendation
 tags:
-  - maths
+  - Maths
+  - Book recommendation
 ---
 
 On m'a recommandé ce livre de théorie des groupes  
