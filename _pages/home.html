@@ -1,0 +1,49 @@
+---
+layout: splash
+permalink: /
+hidden: true
+header:
+  overlay_color: "#30E3CA"
+  overlay_image: /assets/images/niels-abel-cover-2.png
+excerpt: >
+  Collections of works, and typed documents.<br />
+  Visit my <a href="https://github.com/PrameTan/">GitHub repo</a> or check out my <a href="https://prametan.github.io/resources">writings</a>.
+feature_row:
+  - image_path: /assets/images/niels-abel-cover-fix.png
+    alt: "Mathematical blog"
+    title: "Mathematical blog"
+    excerpt: "Everything from Mathematics"
+    url: "/categories/"
+    btn_class: "btn--primary"
+    btn_label: "Click here" 
+  - image_path: /assets/images/cauchy-cover.png
+    alt: "Writings"
+    title: "Writings"
+    excerpt: "Online resources for both mathematics and philosophy"
+    url: "/writings/"
+    btn_class: "btn--primary"
+    btn_label: "Click here" 
+---
+
+{% include feature_row %}
+
+<h1>Or view recent posts...</h1>
+
+{% for post in site.posts limit:1 %}
+    <h3> {{ post.date | date: "%d/%m/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a> </h3>
+    <div>{{ post.content |truncatehtml | truncatewords: 60 }}</div>
+{% endfor %}
+<ul class="entries">
+	{% for post in site.posts offset:1 limit:3 %}
+		<li>
+			<h3> {{ post.date | date: "%d/%m/%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a> </h3>
+		</li>
+	{% endfor %}
+</ul>
+
+<hr>
+
+<p>
+<small>The pictures used are from <a href="https://www.abelprize.no/nedlastning/verker/abel_handskrift3_opt.pdf">Niels Hendrik Abel's</a> and <a href="http://dla.library.upenn.edu/dla/medren/pageturn.html?id=MEDREN_9958856333503681&rotation=0&size=0&currentpage=2">Cauchy's</a> manuscripts. The one in the foothead is from Abel's proof that the division of a lemniscate into \( n \) equal parts by compass and straightedge is possible if and only if 
+it can be done on a unit circle, linking to the theorem previously investigated by Gauss.</small>
+</p>
