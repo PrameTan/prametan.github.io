@@ -29,3 +29,5 @@ I have several lecture notes typed in Thai. Those are:
 ### Calculus II
 [แบบฝึกหัดการหาปริพันธ์](/assets/files/Calculus II practice.pdf)
 [ลำดับและอนุกรม](/assets/files/sequence_and_series.pdf) - ตลอดจนอนุกรมกำลังและอนุกรมเทย์เลอร์
+### Introduction to Set Theory
+ความสมมูลของสัจพจน์การเลือกและสัจพจน์ที่เกี่ยวข้อง [PDF](/assets/pdf/set-theory-equivalence/set-theory_equivalence.pdf) [TEX](/assets/pdf/set-theory-equivalence/set-theory_equivalence.zip)
