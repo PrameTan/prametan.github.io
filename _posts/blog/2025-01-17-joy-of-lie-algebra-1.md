@@ -31,7 +31,7 @@ As a primarily geometry-oriented person myself, I'd say that the Lie algebra-Lie
 
 A **Lie algebra** is a vector space $$ L $$ over a field $$ k $$ (usually taken to be $$ \mathbb{C} $$) with an operation, called **the Lie bracket**, $$ [-,-] \colon L \times L \to L $$ satisfying the following properties:
 
-1. $$[ax + bx', y] = a[xy] + b[x'y] $$ and $$ [x, ay + by'] = a[xy] + b[xy'] $$ (it is bilinear);
+1. $$[ax + bx', y] = a[xy] + b[x'y] $$ and $$ [x, ay + by'] = a[xy] + b[xy'] $$ for all $$ x, x', y, y'\in L $$ and $$ a, b \in k $$, i.e. it is bilinear;
 2. $$[xx] = 0 $$ for all $$ x \in L $$;
 3. $$[x[yz]] + [y[zx]] + [z[xy]] = 0$$ for all $$ x, y, z \in L $$. This is called the **Jacobi identity**.
 
@@ -51,7 +51,7 @@ Finally we look at the notions of Lie subalgebras and ideals.
 > **Exercise.** Show that if $$ I $$ is an ideal of $$ L $$, then $$ [LI] \subseteq I $$ too.
 
 After we obtain the notion of an ideal, we may define quotients of Lie algebras. Suppose $$ L $$ is a Lie algebra, and $$ I $$ an ideal of $$ L $$. Since $$ I $$ is already a subspace of $$ L $$,
-we may simply take the quotient to get the factor space $$ L / I $$. Define the Lie braket on this space as follows:
+we may simply take the quotient to get the factor space $$ L / I $$. Define the Lie bracket on this space as follows:
 
 $$
 	[x + I, y + I] = [xy] + I
