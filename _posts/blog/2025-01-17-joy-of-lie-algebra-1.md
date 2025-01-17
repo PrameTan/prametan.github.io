@@ -40,18 +40,18 @@ A **Lie algebra** is a vector space $$ L $$ over a field $$ k $$ (usually taken 
 As is tradition in algebra, after we have a structure, we seek maps between them which preserve the structure. This gives the notion of **Lie algebra homomorphism**.
 
 If $$ L, M $$ are Lie algebras, then a linear map $$ \theta \colon L \to M $$ is a Lie algebra homomorphism if $$ \theta[xy] = [\theta x, \theta y] $$ for all $$x, y \in L$$. It is a **Lie algebra isomorphism**
-if it is an isomorphism as a function.
+if it is bijective as a function (thus a vector space isomorphism).
 
-Finally we look at the notion of Lie subalgebras and ideals.
+Finally we look at the notions of Lie subalgebras and ideals.
 
-1. Let $$ L $$ be a Lie algebra, and let $$ H, K $$ be vector subspace of $$ L. $$ Define $$ [HK] $$ to be the subspace of $$ L $$ spanned by the elements of the form $$ [hk] $$, where $$ h\in H $$ and $$ k \in K $$.
+1. Let $$ L $$ be a Lie algebra, and let $$ H, K $$ be vector subspaces of $$ L. $$ Define $$ [HK] $$ to be the subspace of $$ L $$ spanned by the elements of the form $$ [hk] $$, where $$ h\in H $$ and $$ k \in K $$.
 2. A subspace $$ H $$ of $$ L $$ is said to be a **Lie subalgebra** of $$ L $$ if $$ [HH] \subseteq H $$.
 3. A subspace $$ I $$ of $$ L $$ is said to be an **ideal** of $$ L $$ if $$ [IL] \subseteq I $$.
 
 > **Exercise.** Show that if $$ I $$ is an ideal of $$ L $$, then $$ [LI] \subseteq I $$ too.
 
-After we obtained the notion of ideal, we may define quotients of Lie algebras. Suppose $$ L $$ is a Lie algebra, and $$ I $$ an ideal of $$ L $$. Since $$ I $$ is already a subspace of $$ L $$,
-we may simply take the quotient to get the factor space $$ L / I $$. Define the Lie braket on this space as follows
+After we obtain the notion of an ideal, we may define quotients of Lie algebras. Suppose $$ L $$ is a Lie algebra, and $$ I $$ an ideal of $$ L $$. Since $$ I $$ is already a subspace of $$ L $$,
+we may simply take the quotient to get the factor space $$ L / I $$. Define the Lie braket on this space as follows:
 
 $$
 	[x + I, y + I] = [xy] + I
