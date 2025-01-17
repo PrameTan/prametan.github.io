@@ -1,5 +1,5 @@
 ---
-title:  "The Joy of Lie Algebras I"
+title:  "The Joy of Lie Algebras, Part I: Introduction and Basics of Lie Algebras"
 categories: 
   - Blog
 tags:
