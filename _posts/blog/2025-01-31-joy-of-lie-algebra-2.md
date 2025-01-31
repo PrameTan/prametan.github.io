@@ -218,13 +218,13 @@ $$
 Therefore $$ \mathbb{C}v $$ is a non-zero $$ L $$-submodule of $$ V $$. But then $$ V = \mathbb{C} v $$ by irreducibility. This finishes the proof.
 
 
-As we have seen, everthing is based on showing that $$ \lambda[xy] = 0 $$, so we do just that! First note that the decomposition $$ L = I \oplus \mathbb{C}x $$ does not depend on our claim, so we can use it. We then only need to show that
+As we have seen, everything is based on showing that $$ \lambda[xy] = 0 $$, so we do just that! First note that the decomposition $$ L = I \oplus \mathbb{C}x $$ does not depend on our claim, so we can use it. We then only need to show that
 $$ \lambda[xy] $$ for this very $$ x $$ that gives rise to the decomposition.
 
 Let $$ u $$ be any non-zero element of $$ U $$. Consider the sequence
 
 $$
-	v_0 = u, v_1 = xu, v_2 = xv_1 = x(xu), \dotsb,
+	v_0 = u, v_1 = xu, v_2 = xv_1 = x(xu), \dotsc,
 $$
 
 Since $$ V $$ is finite-dimensional, there exists the maximum index $$ p $$ such that $$v_0, \dotsc, v_p $$ is linearly independent. Now consider the action by any element $$ y \in I $$ on these vectors.
@@ -245,7 +245,8 @@ $$
 	\end{align}
 $$
 
-It can be show that the subspace $$ \langle v_0, \dotsc, v_n \rangle $$ is an $$ L $$-submodule of $$ V $$, just like how we have shown that $$ V = \mathbb{C} v $$. One can argue using the fact that $$ V $$ is invariant under both $$ I $$ and $$\mathbb{C} x $$.
+It can be show that the subspace $$ \langle v_0, \dotsc, v_n \rangle $$ is an $$ L $$-submodule of $$ V $$, just like how we have shown that $$ V = \mathbb{C} v $$. One can also argue using the fact that $$ V $$ is invariant under both $$ I $$ and $$\mathbb{C} x $$.
+
 But $$ V $$ is irreducible, and so
 
 $$
